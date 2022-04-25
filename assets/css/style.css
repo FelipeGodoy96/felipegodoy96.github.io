@@ -384,6 +384,10 @@ section {
   margin-bottom: 0;
 }
 
+.about .row img {
+  border-radius: 50px;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -645,6 +649,10 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-info::after {
   bottom: 15px;
   right: 15px;
+}
+
+.portfolio-info {
+  width: 100%;
 }
 
 /*--------------------------------------------------------------
